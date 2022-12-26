@@ -10,6 +10,8 @@ This is a Case Study project where:
 
 3. Provided insights to help make valued business decisions.
 
+(To view This Project click: https://www.kaggle.com/code/aarush09/bellabeat-case-study-using-r)
+
 
 
 
